@@ -8,7 +8,7 @@ This has been tested with macOS Mojave where it solves the problem of being unab
 
 Thanks to everyone that helped on this project! 
 
-See you next year in YYZ!
+See you next year in Why Why Zed!
 
 ## Use
 
