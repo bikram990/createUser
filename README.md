@@ -4,6 +4,12 @@ Small utility to create users and to update the shadow hash data in a user recor
 
 This has been tested with macOS Mojave where it solves the problem of being unable to create a new user by creating the raw plist files in the local OD node.
 
+## MacDevOps 2018 Hack Night Project
+
+Thanks to everyone that helped on this project! 
+
+See you next year in YYZ!
+
 ## Use
 
 createUser takes a number of options, only one is required `-u` the other options determine if the user is created and/or the password hash is updated.
